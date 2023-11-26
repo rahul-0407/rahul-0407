@@ -4,7 +4,7 @@
 ___
 <h1 align="center"># Hi there, i am Rahual Gupta 👋</h1>
 
-<h3 align="center">I am so much enthusiasm to learn javascript and and its related framework. and also high interest in c++</h3>
+<h3 align="center">I am so much enthusiasm to learn javascript and and its related framework And also high interest in c++</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=rahul-0407&icon=0&color=0)](https://visitcount.itsvg.in)
