@@ -1,9 +1,21 @@
-___
 
-# Hi there, i am rahual gupta 👋
+<img src="./code.gif" width="1000" />
+
+___
+<h1 align="center"># Hi there, i am Rahual Gupta 👋</h1>
+
+<h3 align="center">I am so much enthusiasm to learn javascript and and its related framework. and also high interest in c++</h3>
+
+
+[![](https://visitcount.itsvg.in/api?id=rahul-0407&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 # 💫 About Me:
-🔭 I’m currently working on ...<br>🌱 I’m currently learning ...<br> 👯 I’m looking to collaborate on ...<br>🤔 I’m looking for help with ...<br>💬 Ask me about ...<br>📫 How to reach me: ...<br>😄 Pronouns: ...<br> ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gig" align="right" height="250px" width="300px">
+  🔭 I’m currently working on my-portfolio <br>  🌱 I’m currently learning React<br>  💬 Ask me about HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDb<br>  🎓 Studying B.tech CSE at the Quantum University, graduating July 2027<br><br><br># ⚡ Fun fact: I excit to collborate and learn new things.
+
+
 
 
 ## 🌐 Socials:
@@ -20,6 +32,6 @@ ___
 ![](https://github-contributor-stats.vercel.app/api?username=rahul-0407&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahul-0407&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
