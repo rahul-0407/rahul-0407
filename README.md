@@ -2,7 +2,7 @@
 <img src="./code.gif" width="1000" />
 
 ___
-<h1 align="center"># Hi there, i am Rahual Gupta 👋</h1>
+<h1 align="center"># Hi there, i am Rahul Gupta 👋</h1>
 
 <h3 align="center">I am so much enthusiasm to learn javascript and and its related framework. and also high interest in c++</h3>
 
