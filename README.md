@@ -13,7 +13,7 @@ ___
 
 # 💫 About Me:
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gig" align="right" height="250px" width="300px">
-  🔭 I’m currently working on my-portfolio <br>  🌱 I’m currently learning React<br>  💬 Ask me about HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDb<br>  🎓 Studying B.tech CSE at the Quantum University, graduating July 2027<br><br><br># ⚡ Fun fact: I excit to collborate and learn new things.
+  🔭 I’m currently working on a self sovereign system <br>  🌱 I’m currently learning foundy advance<br>  💬 Ask me about HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDb, solidity<br>  🎓 Studying B.tech CSE at the Quantum University, graduating July 2027<br><br><br># ⚡ Fun fact: I excit to collborate and learn new things.
 
 
 
