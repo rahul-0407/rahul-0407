@@ -2,7 +2,7 @@
 <img src="./code.gif" width="1000" />
 
 ___
-<h1 align="center"># Hi there, i am Rahual Gupta 👋</h1>
+<h1 align="center"># Hi there, i am Rahul Gupta 👋</h1>
 
 <h3 align="center">Passionate about building full-stack and blockchain applications using JavaScript and modern frameworks, with a strong foundation in C++</h3>
 
